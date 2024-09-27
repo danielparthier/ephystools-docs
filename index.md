@@ -9,7 +9,7 @@ has_children: false
 
 Welcome to the documentation for [EphysTools](https://github.com/danielparthier/EphysTools), the tool box for *in-vitro* electrophysiology. This is a collaborative project to improve reproducibility and efficiency of analysis workflows for *in-vitro* electrophyiology.
 
-# Philosophy
+## Philosophy
 
 The goal is to simplify different workflows for analysis and documentation. At the same time these different processes should be combined to increase transparency and reduce the workload.
 
