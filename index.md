@@ -1,6 +1,13 @@
-# Welcome to Ephystools Documentation
+---
+layout: default
+title: Home
+nav_order: 1
+has_children: false
+---
 
-Welcome to the documentation for Ephystools, the tool box for *in-vitro* electrophysiology. 
+# EphysTools
+
+Welcome to the documentation for EphysTools, the tool box for *in-vitro* electrophysiology. This is a collaborative project to improve reproducibility and efficiency of analysis workflows for *in-vitro* electrophyiology.
 
 ## License
 
