@@ -1,0 +1,38 @@
+title: EphysTools Documentation
+description: Documentation for the EphysTools project
+baseurl: "/ephystools-docs" # the subpath of your site, e.g. /blog
+url: "https://danielparthier.github.io" # the base hostname & protocol for your site
+theme: jekyll-theme-minimal
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation links
+nav_links:
+  - name: "Home"
+    link: "/"
+  - name: "About"
+    link: "/about"
+  - name: "Docs"
+    link: "/docs"
+
+# Social media links
+social_links:
+  github: danielparthier
+  github: Schmitz-lab
+  orcid: 0000-0001-8775-024X
+
+aux link:
+  footer_content: "Copyright &copy; 2024 Daniel Parthier. Distributed under a <a href=\"https://danielparthier.github.io/ephystools-doc/LICENSE.html\">MIT license.</a>"
