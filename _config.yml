@@ -31,9 +31,17 @@ nav_links:
 
 # Social media links
 social_links:
-  github: danielparthier
-  github: Schmitz-lab
-  orcid: 0000-0001-8775-024X
+  - name: "GitHub"
+    url: "https://github.com/danielparthier"
+    icon: "fab fa-github"
+  - name: "GitHub Group"
+    url: "https://github.com/Schmitz-lab"
+    icon: "fab fa-github"
+  - name: "ORCID"
+    url: "https://orcid.org/0000-0001-8775-024X"
+    icon: "ai ai-orcid"
 
-aux link:
-  footer_content: "Copyright &copy; 2024 Daniel Parthier. Distributed under a <a href=\"https://danielparthier.github.io/ephystools-doc/LICENSE.html\">MIT license.</a>"
+aux_links:
+  "View on GitHub":
+    - "//github.com/danielparthier/EphysTools"
+  footer_content: "Copyright &copy; 2024 Daniel Parthier. Distributed under a <a href=\"https://danielparthier.github.io/ephystools-doc/LICENSE.md\">MIT license.</a>"
