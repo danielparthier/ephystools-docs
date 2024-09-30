@@ -20,6 +20,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-gist
 
 # Navigation links
 nav_links:
@@ -29,6 +30,8 @@ nav_links:
     link: "/about"
   - name: "Docs"
     link: "/docs"
+
+search: true
 
 # Social media links
 social_links:
