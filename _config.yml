@@ -2,7 +2,7 @@ title: EphysTools Documentation
 description: Documentation for the EphysTools project
 baseurl: "/ephystools-docs" # the subpath of your site, e.g. /blog
 url: "https://danielparthier.github.io" # the base hostname & protocol for your site
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 # Build settings
 markdown: kramdown
@@ -17,6 +17,7 @@ exclude:
 # Plugins
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-include-cache
   - jekyll-feed
   - jekyll-seo-tag
 
