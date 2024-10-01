@@ -1,8 +1,9 @@
 ---
 layout: single
 title: Home
-nav_order: 1
-has_children: false
+sidebar:
+  nav: "overview_sidebar"
+breadcrumbs: true
 ---
 
 # EphysTools
