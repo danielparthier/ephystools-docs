@@ -15,7 +15,7 @@ exclude:
   - README.md
 
 # Plugins
-plugins:
+plugins:overview_sidebar
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-include-cache
   - jekyll-feed

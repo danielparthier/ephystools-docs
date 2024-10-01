@@ -5,7 +5,7 @@ main:
     url: "https://github.com/danielparthier/EphysTools"
     target: _blank
 
-sidebar:
+overview_sidebar:
   - title: "Overview"
     children:
       - title: "Home"

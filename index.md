@@ -2,7 +2,7 @@
 layout: single
 title: Home
 sidebar:
-  nav: "overview_sidebar"
+  nav: overview_sidebar
 breadcrumbs: true
 ---
 
