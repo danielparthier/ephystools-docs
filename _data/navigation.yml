@@ -6,7 +6,6 @@ main:
     target: _blank
 
 overview_sidebar:
-    image: /img/E-Logo.png
   - title: "Overview"
     children:
       - title: "Home"
