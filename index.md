@@ -1,6 +1,11 @@
 ---
 layout: single
 title: Home
+header:
+  image: /img/E-Logo.png
+  actions:
+    - label: "Check-out repository"
+      url: "https://github.com/danielparthier/EphysTools"
 sidebar:
   nav: overview_sidebar
 breadcrumbs: true

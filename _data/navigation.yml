@@ -6,12 +6,13 @@ main:
     target: _blank
 
 overview_sidebar:
+    image: /img/E-Logo.png
   - title: "Overview"
     children:
       - title: "Home"
         url: /index.html
       - title: "Contribute"
         url: /contribute.html
-  - title: "EphysTools"
+  - title: "GitHub Repository"
     url: "https://github.com/danielparthier/EphysTools"
     target: _blank
