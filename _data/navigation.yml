@@ -4,3 +4,14 @@ main:
   - title: "EphysTools"
     url: "https://github.com/danielparthier/EphysTools"
     target: _blank
+
+sidebar:
+  - title: "Overview"
+    children:
+      - title: "Home"
+        url: /index.html
+      - title: "Contribute"
+        url: /contribute.html
+  - title: "EphysTools"
+    url: "https://github.com/danielparthier/EphysTools"
+    target: _blank

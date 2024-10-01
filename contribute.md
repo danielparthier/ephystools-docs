@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: Contribute
 nav_order: 1
 has_children: false
