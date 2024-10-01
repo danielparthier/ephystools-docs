@@ -1,6 +1,5 @@
 ---
 layout: single
-title: Home
 header:
   image: /img/E-Logo.png
   actions:
@@ -11,9 +10,7 @@ sidebar:
 breadcrumbs: true
 ---
 
-# EphysTools
-
-Welcome to the documentation for [EphysTools](https://github.com/danielparthier/EphysTools), the tool box for *in-vitro* electrophysiology. This is a collaborative project to improve reproducibility and efficiency of analysis workflows for *in-vitro* electrophyiology.
+Welcome to the documentation for [EphysTools](https://github.com/danielparthier/EphysTools), the tool box for *in-vitro* electrophysiology. This is a collaborative project to improve reproducibility and efficiency of analysis workflows for *in-vitro* electrophysiology.
 
 ## Philosophy
 
