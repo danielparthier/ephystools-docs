@@ -14,8 +14,11 @@ exclude:
   - Gemfile.lock
   - README.md
 
+sidebar:
+    image: /img/E-Logo.png
+
 # Plugins
-plugins:overview_sidebar
+plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-include-cache
   - jekyll-feed
@@ -34,7 +37,8 @@ nav_links:
 search: true
 
 # Social media links
-social_links:
+footer:
+  links:
   - name: "GitHub"
     url: "https://github.com/danielparthier"
     icon: "fab fa-github"
@@ -43,9 +47,9 @@ social_links:
     icon: "fab fa-github"
   - name: "ORCID"
     url: "https://orcid.org/0000-0001-8775-024X"
-    icon: "ai ai-orcid"
+    icon: "fab fa-orcid"
 
 aux_links:
+  footer_content: "Copyright &copy; 2024 Daniel Parthier. Distributed under a <a href=\"https://danielparthier.github.io/ephystools-doc/LICENSE.md\">MIT license.</a>"
   "View on GitHub":
     - "//github.com/danielparthier/EphysTools"
-  footer_content: "Copyright &copy; 2024 Daniel Parthier. Distributed under a <a href=\"https://danielparthier.github.io/ephystools-doc/LICENSE.md\">MIT license.</a>"
