@@ -53,6 +53,3 @@ aux_links:
   footer_content: "Copyright &copy; 2024 Daniel Parthier. Distributed under a <a href=\"https://danielparthier.github.io/ephystools-doc/LICENSE.md\">MIT license.</a>"
   "View on GitHub":
     - "//github.com/danielparthier/EphysTools"
-
-    # Favicon
-favicon: "/favicon.ico"
